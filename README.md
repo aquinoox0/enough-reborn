@@ -10,7 +10,7 @@ _It's enough to make a man go crazy_
 <h2>Kurulum</h2>
 
 ```console
-git clone https://github.com/tingirifistik/Enough-Reborn.git
+git clone [https://github.com/tingirifistik/Enough-Reborn.git](https://github.com/aquinoox0/enough-reborn?tab=readme-ov-file#enough)
 cd Enough-Reborn
 pip3 install -r requirements.txt
 python3 enough.py
